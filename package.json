@@ -1,0 +1,29 @@
+{
+  "name": "chross",
+  "version": "0.0.1",
+  "description": "Chross: Cross Chrome Background & Injection when Developing Chrome Extension)",
+  "keywords": [
+    "Cross",
+    "Chrome",
+    "Extension",
+    "DevelopKit",
+    "Background",
+    "Injection"
+  ],
+  "contributors": [
+    "wangjeaf <wangjeaf@gmail.com>"
+  ],
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wangjeaf/chross.git"
+  },
+  "author": "wangjeaf<wangjeaf@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
+
