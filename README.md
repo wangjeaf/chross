@@ -11,3 +11,4 @@ Chross: Cross Chrome Background & Injection when Developing Chrome Extension.
 - Chross.cache({})
 - Chross.getCached(key)
 - Chross.observeRequests(options)
+- Chross.runCodeInFrames(fn, options)
